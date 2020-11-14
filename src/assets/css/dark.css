@@ -1,0 +1,9 @@
+body {
+    background-color: rgb(66, 78, 89);
+}
+
+.app-header {
+    opacity: .9;
+    background-color:rgb(40, 47, 53);
+    border: 0;
+}
